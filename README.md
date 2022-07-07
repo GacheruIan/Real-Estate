@@ -17,6 +17,6 @@ program setup instructions - The project was created using 2 languages:- a)html.
                                                                          b)css.
                               
                                                                          
-link to the site on GitHub Pages - https://github.com/GacheruIan/Real-Estate.
+link to the site on GitHub Pages - gacheruian.github.io/real-estate/.
 
 copyright and license information - MIT Lincense.
