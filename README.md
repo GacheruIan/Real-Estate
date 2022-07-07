@@ -1,7 +1,7 @@
 # Real-Estate
 author-name - Ian Gacheru Kibue.
 
-project or program name-Real-Estate project.
+project or program name-Real-Estate project(Vallie Estate).
 
 description of program - A landing page for a simple real estate that has a listing of houses together with their prices allowing interested buyers to purchase houses of their liking. It also has reviews of what other clients are saying about the company.
 
